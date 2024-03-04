@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="gdUnit4.api" Version="4.2.1" />
     <PackageReference Include="gdUnit4.test.adapter" Version="1.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.9.0" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="RiderTestRunner\NetCoreRunner.tscn" />
